@@ -1,1 +1,3 @@
-Same as our Stack online task 2
+i) O(n^2 logn)
+
+ii) O(n * (logn)^2)
