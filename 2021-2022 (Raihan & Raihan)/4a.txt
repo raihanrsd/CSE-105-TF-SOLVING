@@ -1,0 +1,30 @@
+
+
+    ""  C   G   A   T   C 
+
+""  0   3   6   9   12  15
+
+C   3   0   5   8   11  12
+
+C   6   3   2   5   8   11
+
+A   9   6   5   2   5   8
+
+G   12  9   6   5   4   8
+
+T   15  12  9   8   5   6
+
+G   18  15  12  11  8   7
+
+C   21  18  15  14  11  8
+
+
+Operations
+
+CCAGTGC
+CGA_T_C
+
+Delete G = 3
+Delete G = 3
+Replance CG = 2
+total cost = 8
