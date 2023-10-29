@@ -32,7 +32,7 @@ class Kstack{
             dynamic_arr[i] = arr[i];
         }
     
-        int j = size;
+        int j = size - 1;
         while(j > top2){
             dynamic_arr[j--] = arr[prev_size--];
         }
